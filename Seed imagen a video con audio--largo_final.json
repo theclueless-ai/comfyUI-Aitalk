@@ -6103,15 +6103,21 @@
           ]
         },
         {
+          "name": "audio",
+          "type": "AUDIO",
+          "slot_index": 2,
+          "links": []
+        },
+        {
           "name": "frame_count",
           "type": "INT",
-          "slot_index": 2,
+          "slot_index": 3,
           "links": []
         },
         {
           "name": "fps",
           "type": "FLOAT",
-          "slot_index": 3,
+          "slot_index": 4,
           "links": []
         }
       ],
