@@ -4204,44 +4204,6 @@
       "bgcolor": "#653"
     },
     {
-      "id": 338,
-      "type": "ShowText|pysssss",
-      "pos": [
-        2646.974190635753,
-        -1447.7353280058537
-      ],
-      "size": [
-        140,
-        26
-      ],
-      "flags": {
-        "collapsed": false
-      },
-      "order": 3,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "text",
-          "type": "STRING",
-          "link": null
-        }
-      ],
-      "outputs": [
-        {
-          "name": "STRING",
-          "shape": 6,
-          "type": "STRING",
-          "links": []
-        }
-      ],
-      "properties": {
-        "cnr_id": "comfyui-custom-scripts",
-        "ver": "609f3afaa74b2f88ef9ce8d939626065e3247469",
-        "Node name for S&R": "ShowText|pysssss"
-      },
-      "widgets_values": []
-    },
-    {
       "id": 306,
       "type": "AudioDuration",
       "pos": [
@@ -4470,7 +4432,7 @@
       "widgets_values": [
         "43db4758-52b0-4b3b-87f5-a7eaf416ef98",
         "A girl holding a fox, the camera slowly pulls out.",
-        "seedance-1-5-pro-251215",
+        "dreamina-seedance-2-0-260128",
         "adaptive",
         5,
         "1080p",
@@ -4620,7 +4582,7 @@
       "widgets_values": [
         "43db4758-52b0-4b3b-87f5-a7eaf416ef98",
         "A girl holding a fox, the camera slowly pulls out.",
-        "seedance-1-5-pro-251215",
+        "dreamina-seedance-2-0-260128",
         "adaptive",
         5,
         "1080p",
@@ -4770,7 +4732,7 @@
       "widgets_values": [
         "43db4758-52b0-4b3b-87f5-a7eaf416ef98",
         "A girl holding a fox, the camera slowly pulls out.",
-        "seedance-1-5-pro-251215",
+        "dreamina-seedance-2-0-260128",
         "adaptive",
         5,
         "1080p",
@@ -4920,7 +4882,7 @@
       "widgets_values": [
         "43db4758-52b0-4b3b-87f5-a7eaf416ef98",
         "A girl holding a fox, the camera slowly pulls out.",
-        "seedance-1-5-pro-251215",
+        "dreamina-seedance-2-0-260128",
         "adaptive",
         5,
         "1080p",
@@ -5070,7 +5032,7 @@
       "widgets_values": [
         "43db4758-52b0-4b3b-87f5-a7eaf416ef98",
         "A girl holding a fox, the camera slowly pulls out.",
-        "seedance-1-5-pro-251215",
+        "dreamina-seedance-2-0-260128",
         "adaptive",
         5,
         "1080p",
@@ -5220,7 +5182,7 @@
       "widgets_values": [
         "43db4758-52b0-4b3b-87f5-a7eaf416ef98",
         "A girl holding a fox, the camera slowly pulls out.",
-        "seedance-1-5-pro-251215",
+        "dreamina-seedance-2-0-260128",
         "adaptive",
         5,
         "1080p",
@@ -5370,7 +5332,7 @@
       "widgets_values": [
         "43db4758-52b0-4b3b-87f5-a7eaf416ef98",
         "A girl holding a fox, the camera slowly pulls out.",
-        "seedance-1-5-pro-251215",
+        "dreamina-seedance-2-0-260128",
         "adaptive",
         5,
         "1080p",
@@ -5520,7 +5482,7 @@
       "widgets_values": [
         "43db4758-52b0-4b3b-87f5-a7eaf416ef98",
         "A girl holding a fox, the camera slowly pulls out.",
-        "seedance-1-5-pro-251215",
+        "dreamina-seedance-2-0-260128",
         "adaptive",
         5,
         "1080p",
@@ -5668,7 +5630,7 @@
       "widgets_values": [
         "43db4758-52b0-4b3b-87f5-a7eaf416ef98",
         "A girl holding a fox, the camera slowly pulls out.",
-        "seedance-1-5-pro-251215",
+        "dreamina-seedance-2-0-260128",
         "adaptive",
         5,
         "1080p",
