@@ -3918,8 +3918,7 @@
             472,
             473,
             474,
-            490,
-            646
+            490
           ]
         },
         {
@@ -6098,9 +6097,7 @@
           "name": "frames",
           "type": "IMAGE",
           "slot_index": 1,
-          "links": [
-            645
-          ]
+          "links": []
         },
         {
           "name": "audio",
@@ -6125,69 +6122,6 @@
         "Node name for S&R": "Seed15_VideoConcatParallel"
       },
       "widgets_values": []
-    },
-    {
-      "id": 355,
-      "type": "VHS_VideoCombine",
-      "pos": [
-        1638.9278309116107,
-        -1045.7992900390332
-      ],
-      "size": [
-        360,
-        540
-      ],
-      "flags": {},
-      "order": 10000,
-      "mode": 0,
-      "inputs": [
-        {
-          "name": "images",
-          "type": "IMAGE",
-          "link": 645
-        },
-        {
-          "name": "audio",
-          "type": "AUDIO",
-          "link": 646,
-          "shape": 7
-        },
-        {
-          "name": "meta_batch",
-          "type": "VHS_BatchManager",
-          "link": null,
-          "shape": 7
-        },
-        {
-          "name": "vae",
-          "type": "VAE",
-          "link": null,
-          "shape": 7
-        }
-      ],
-      "outputs": [
-        {
-          "name": "Filenames",
-          "type": "VHS_FILENAMES",
-          "slot_index": 0,
-          "links": []
-        }
-      ],
-      "properties": {
-        "Node name for S&R": "VHS_VideoCombine"
-      },
-      "widgets_values": {
-        "frame_rate": 24,
-        "loop_count": 0,
-        "filename_prefix": "prueba_final_audio",
-        "format": "video/h264-mp4",
-        "pix_fmt": "yuv420p",
-        "crf": 19,
-        "save_metadata": true,
-        "trim_to_audio": false,
-        "pingpong": false,
-        "save_output": true
-      }
     }
   ],
   "links": [
@@ -7158,22 +7092,6 @@
       237,
       0,
       "VIDEO"
-    ],
-    [
-      645,
-      354,
-      1,
-      355,
-      0,
-      "IMAGE"
-    ],
-    [
-      646,
-      21,
-      0,
-      355,
-      1,
-      "AUDIO"
     ],
     [
       647,
