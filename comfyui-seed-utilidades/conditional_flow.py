@@ -66,6 +66,8 @@ class DurationGateVideo:
     insuficiente, devuelve None y además NO evalúa el input `video` gracias
     a lazy=True (no llama al Seedance, no gasta crédito).
 
+    PRUEBA
+
     Cableado típico:
         [Seedance] ─video────────┐
                                   ├─> [Duration Gate Video] ─video─> [VideoConcatParallel]
